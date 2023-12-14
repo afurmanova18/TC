@@ -17,7 +17,7 @@ namespace Factorial
             {
                 f *= i;
             }
-            return f;
+            return "f";
         }
     }
 }
